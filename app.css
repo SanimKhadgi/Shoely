@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+p {
+    padding: 10px;
+}
